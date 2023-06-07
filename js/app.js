@@ -1,9 +1,4 @@
-/*
- * Koffie One Page HTML Landing Page
- * Build Date: december 2016
- * Author: ThemeAtelier
- * Copyright (C) 2016 ThemeAtelier
- */
+
 /**
  * Table of contents
  * -----------------------------------
