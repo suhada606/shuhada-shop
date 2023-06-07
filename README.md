@@ -1,5 +1,5 @@
 # Shuhada Coffee Shop
-This is a coffee shop website. <br>
+This is a coffee shop website. <a href="https://suhada606.github.io/shuhada-shop/" target="_blank">Click here to visit the website I'm developing </a><br>
 
 <h5>Frontend: </h5> html,css, bootstrap, jQuery, Javascript <br>
 <h5>Backend: </h5> will be developed with: PHP with OOP concept <br>
