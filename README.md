@@ -5,11 +5,13 @@ Backend will be developed with: PHP with OOP concept <br>
 DATABASE: MYSQL <br>
 
 <h2>Suhada Coffee Shop project Overeview</h2>
+There will be separate landing page and separate admin panel for this project!! 
+
 <h6>Current Status: </h6>
 <ul>
   <li>1. Shop Html Landing page ready</li>
   <li>2. All below section completed:</li>
-  <li>(Slider, our story, Our offer, Special menu, gallery, Blog, Reviews, contact section) </li>
+  <li>Slider section, our story  section, Our offer section, Special menu section, gallery section, Blog section, Reviews section, contact section) </li>
 </ul> <br>
 
 <h6>Upcoming:  </h6>
