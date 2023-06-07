@@ -1,6 +1,10 @@
-# shuhada-shop
-this is a shop website. it will be developed with html, php with OOP concept
-<h2>Suhada Coffee Shop project</h2>
+# Shuhada Coffee Shop
+this is a coffee shop website. <br>
+Frontend will be developed with html,css, bootstrap, jQuery, Javascript <br>
+Backend will be developed with: PHP with OOP concept <br>
+DATABASE: MYSQL <br>
+
+<h2>Suhada Coffee Shop project Overeview</h2>
 <p>Current Status: </p>
 <ul>
   <li>1. Shop Html Landing page ready</li>
