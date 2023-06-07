@@ -1,8 +1,9 @@
 # Shuhada Coffee Shop
-this is a coffee shop website. <br>
-Frontend will be developed with html,css, bootstrap, jQuery, Javascript <br>
-Backend will be developed with: PHP with OOP concept <br>
-DATABASE: MYSQL <br>
+This is a coffee shop website. <br>
+
+<h5>Frontend: </h5> html,css, bootstrap, jQuery, Javascript <br>
+<h5>Backend: </h5> will be developed with: PHP with OOP concept <br>
+<h5>DATABASE:</h5> MYSQL <br>
 
 <h2>Suhada Coffee Shop project Overeview</h2>
 There will be separate landing page and separate admin panel for this project!! 
