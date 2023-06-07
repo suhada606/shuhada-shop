@@ -3,7 +3,7 @@ This is a coffee shop website. <a href="https://suhada606.github.io/shuhada-shop
 
 <h5>Frontend: </h5> html,css, bootstrap, jQuery, Javascript <br>
 <h5>Backend: </h5> will be developed with: PHP with OOP concept <br>
-<h5>DATABASE:</h5> MYSQL <br>
+<h5>DATABASE:</h5> MYSQLi <br>
 
 <h2>Suhada Coffee Shop project Overeview</h2>
 There will be separate landing page and separate admin panel for this project!! 
